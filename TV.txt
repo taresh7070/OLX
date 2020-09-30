@@ -1,0 +1,2 @@
+Brand= sony	Model= lx142309	Type= lcd	Usage Time= 3	Cost= 11000	Name= lakshit	Contact No.= 9356224578
+================================================================================

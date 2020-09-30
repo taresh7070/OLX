@@ -1,0 +1,2 @@
+Company= hp	Model= atp5010	RAM= 7	Storage= 1000	Processor= intel_i5	Usage Time= 2	Cost= 35000	Name= manu	Contact No.= 9845475621
+================================================================================

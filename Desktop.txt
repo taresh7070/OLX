@@ -1,0 +1,2 @@
+Company= intex	Model= 2014	RAM= 4	Storage= 500	Processor= intel_i5	Usage Time= 6	Cost= 10000	Name= uzari	Contact No.= 9293568741
+================================================================================

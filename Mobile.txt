@@ -1,0 +1,2 @@
+Company= mi	Model= note6	RAM= 4	Storage= 32	Usage Time= 2018	Cost= 7500	Name= dilawar	Contact No.= 9256547805
+================================================================================

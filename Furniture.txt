@@ -1,0 +1,3 @@
+Name= chair	Usage Time= 1	Type of wood= teek	Cost= 1200	Name= taresh	Contact No.= 9088674332
+Name= tabel	Usage Time= 4	Type of wood= savan	Cost= 4000	Name= ramesh_kumar	Contact No.= 9078543008
+================================================================================

@@ -1,0 +1,2 @@
+Company= apple	Model= air_2_pro	RAM= 4	Storage= 64	Usage Time= 2019	Cost= 18000	Name= riya	Contact No.= 9874560122
+================================================================================

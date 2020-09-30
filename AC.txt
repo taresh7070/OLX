@@ -1,0 +1,2 @@
+Brand= sony	Type= window	Tonnes= 1	Usage Time= 1	Cost= 25000	Name= inder	Contact No.= 9562454360
+================================================================================
